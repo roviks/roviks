@@ -1,4 +1,9 @@
+<p align="center">
+  <a href="https://rovi.uz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/roviks/roviks/main/b.png" alt="my banner"></a>
+</p>
+
 ### Hi there 👋
+
 
 <!--
 **roviks/roviks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
