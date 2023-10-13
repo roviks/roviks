@@ -16,5 +16,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between">
 <img style="height: 160px" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roviks&layout=compact&langs_count=10&theme=tokyonight" />
 <img style="height: 160px" alt="stats bagde" src="https://github-readme-stats.vercel.app/api?username=roviks&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=roviks&layout=compact&theme=radical" alt="wakatime stats" style="width: 40%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=roviks&layout=compact&theme=tokyonight" alt="wakatime stats" style="width: 40%"/>
 </div>
