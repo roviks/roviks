@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://rovi.uz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/roviks/roviks/main/b.png" alt="my banner"></a>
-</p>
 
 ## Hi there 👋
 
