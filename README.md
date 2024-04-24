@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-### I'm a React 💻 and Flutter Developer 📱!
+### I'm a Front-end 💻 and Flutter Developer 📱!
 
 ## 🤝 Connect with me:
 
